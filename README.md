@@ -28,6 +28,9 @@
 - 발표자료 제출 : 11월 20일 오전 9시까지
 - 시간외 제출은 1시간당 10점 감점
 
+# 기존 참고 프로젝트
+FPGA 설계 대회 참고 사이트 (https://www.innovatefpga.com/cgi-bin/innovate/teams.pl)
+
 # 장비 관련
 - FPGA 설계대회 참여팀의 경우 멘토링에서 시뮬레이션 검증 후 실 장비 대여
 - nvidia AI 솔루션의 경우 팀내 GPU 달린 노트북에서 WSL이나 리눅스 부팅으로 DeepStream 가능하도록 멘토링
