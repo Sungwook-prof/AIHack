@@ -93,5 +93,3 @@
 [A] 필수는 아니며, 팀내 GPU 노트북이나 시뮬레이션으로 구동가능한 경우 시뮬레이션을 동영상으로 발표할 수 있습니다. 
 
 - 추가적인 메일로 질문한 질의 내용에 대해서 FAQ로 반영할 예정입니다. 
-
-![poster](https://github.com/Sungwook-prof/AI-Solution-IDEA/blob/main/POSTER.jpg)
