@@ -29,7 +29,10 @@
 - 시간외 제출은 1시간당 10점 감점
 
 # 기존 참고 프로젝트
-FPGA 설계 대회 참고 사이트 (https://www.innovatefpga.com/cgi-bin/innovate/teams.pl)
+1. FPGA 설계 대회 참고 사이트 (https://www.innovatefpga.com/cgi-bin/innovate/teams.pl)
+2. 각 대학 강의 및 팀 프로젝트 참고 사이트 (https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=12&No=329)
+3. AI 솔루션 샘플 참고 코드 (https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps)
+4. nvidia 프로젝트 (https://www.jetson-ai-lab.com/)
 
 # 장비 관련
 - FPGA 설계대회 참여팀의 경우 멘토링에서 시뮬레이션 검증 후 실 장비 대여
