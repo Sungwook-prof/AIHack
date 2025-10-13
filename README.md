@@ -87,7 +87,7 @@
 
 # 채점 점수 관련
 1) 아이디어 평가 : 50점
-2) 코드 구현 평가(커스터마이징, FPGA - Verilog/Assembly/C++, AI - DeepStream 사용, 코드 구현성) : 40점
+2) 코드 구현 평가(커스터마이징, FPGA - Verilog/VHDL/Assembly/C++, AI - DeepStream 사용, 코드 구현성) : 40점
 3) 의료 관련성 : 10점
 
 # 팀별 지원
