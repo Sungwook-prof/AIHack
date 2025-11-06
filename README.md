@@ -49,7 +49,7 @@
 
 # 장비 관련
 - FPGA 설계대회 참여팀의 경우 멘토링에서 시뮬레이션 검증 후 실 장비 대여
-- nvidia AI 솔루션의 경우 팀내 BPU 달린 노트북이나 WSL 또는 리눅스 부팅으로 DeepStream 가능하도록 멘토링
+- nvidia AI 솔루션의 경우 팀내 GPU 달린 노트북이나 WSL 또는 리눅스 부팅으로 DeepStream 가능하도록 멘토링
 - GPU 사용이 어려운 팀의 경우 nvidia Orin AGX 대여(파손시 전액 보상)
 
 # 발표일정 공지
